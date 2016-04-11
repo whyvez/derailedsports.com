@@ -1,6 +1,6 @@
 /* Static image */
 #intro.bg-image .container-fluid {
-  background-image: url('../img/unsplash/10.jpg');
+  background-image: url('../img/unsplash/bike-mtn.jpg');
   background-size: cover;
 }
 
@@ -23,19 +23,19 @@
 
 /* Introduction background */
 #introduction .half.bg {
-  background-image: url('../img/unsplash/1.jpg');
+  background-image: url('../img/storefront.jpg');
   background-size: cover;
 }
 
 /* Services background */
 #services .half.bg {
-  background-image: url('../img/unsplash/2.jpg');
+  background-image: url('../img/bikes.jpg');
   background-size: cover;
 }
 
 /* Portfolio background */
 #portfolio .half.bg {
-  background-image: url('../img/unsplash/3.jpg');
+  background-image: url('../img/gear.jpg');
   background-size: cover;
 }
 
