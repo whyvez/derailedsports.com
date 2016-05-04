@@ -1,0 +1,151 @@
+{
+    "sections": {
+        "landing": {
+            "tagline": "Golden's Local Bike Shop"
+        },
+        "shop": {
+            "p": [
+                "Situated in beautiful Golden British-Columbia at the foot of the Kicking-Horse River. Our shop is in a very old heritage building built in 1876. The Golden mountain bike scene has grown exponentially in the past few years with many new trials in the making. The Golden Bike Club constitutes 244 members strong. There are 250 kms of magnificient and scenic trails in the Golden area to enjoy. Need some a bike or gear to enjoy it; come visit us."
+            ]
+        },
+        "services": {
+            "p": [
+                "Quality service to get your bike running smooth as quickly as possible and keep it that way. All service is completed by owner and master mechanic Jon Simpson to ensure your ride gets fixed properly. We also offer an appointment system that allows for shorter turn around times. No Job is too big or small.",
+                "Suspension upgrades from Fox, Rock Shox and Marzocchi. Brakes from Avid, Hope, Shimano and Hayes. Need new (or better) tires? We have them from Kenda, Maxxis, Schwable, Panaracer and more."],
+            "ul": [
+                {
+                    "label" : "Tuneups and Overhauls"
+                },
+                {
+                    "label" : "Wheel Bearings and wheel Overhaul"
+                },
+                {
+                    "label" : "Shock Setup"
+                },
+                {
+                    "label" : "Fork Overhauls"
+                }
+            ]
+        },
+        "gear": {
+            "p": ["Head Gear, Second Gear, Richard Gere; we've got your gear. If we don't have it in stock we'll get our homing pigeon upex to fetch it for us."],
+            "ul": [
+                {
+                    "label": "Dakine",
+                    "href": "http://ca.dakine.com/bike"
+                },{
+                    "label": "Troylee Desing",
+                    "href": "http://www.troyleedesigns.com/bike"
+                },{
+                    "label": "RaceFace",
+                    "href": "http://www.raceface.com/"
+                },{
+                    "label": "7 Mesh",
+                    "href": "http://www.7meshinc.com/"
+                },{
+                    "label": "FiveTen",
+                    "href": "http://www.fiveten.com/us/bike"
+                },{
+                    "label": "Shimano",
+                    "href": "http://bike.shimano.com/"
+                },{
+                    "label": "Pearl Izumi",
+                    "href": "http://www.pearlizumi.com/"
+                },{
+                    "label": "Smith",
+                    "href": "http://www.smithoptics.com/ca/"
+                },{
+                    "label": "Giro",
+                    "href": "http://www.giro.com/ca_en/"
+                }
+                ,{
+                    "label": "Bell",
+                    "href": "http://www.bellhelmets.com/en_ca/cycling/"
+                }
+                ,{
+                    "label": "IXS",
+                    "href": "http://www.ixs-sportsdivision.com/home.html"
+                }
+                ,{
+                    "label": "Specialized",
+                    "href": "https://www.specialized.com/ca/en/helmets"
+                },{
+                    "label": "Fox",
+                    "href": "http://www.foxhead.com/ca/mtb"
+                },{
+                    "label": "Easton",
+                    "href": "https://www.eastoncycling.com/"
+                },{
+                    "label": "RocksShox",
+                    "href": "https://www.sram.com/rockshox"
+                },{
+                    "label": "Cane Creek",
+                    "href": "http://www.canecreek.com/"
+                },{
+                    "label": "Oakley",
+                    "href": "http://www.oakley.com/en/sports/cycling"
+                }
+            ]
+        },
+        "bikes": {
+            "p": ["We can order stock bikes or build you a custom shredding machine. Drop by to see our in store selection or to talk about what you are looking for."],
+            "ul": [
+                {
+                    "label": "Specialized",
+                    "href": "https://www.specialized.com/ca/en/"
+                },
+                {
+                    "label": "Giant",
+                    "href": "http://www.giant-bicycles.com/en-ca/"
+                },{
+                    "label": "Santa Cruz",
+                    "href": "http://www.santacruzbicycles.com/en/ca"
+                },{
+                    "label": "Kona",
+                    "href": "http://www.konaworld.com/bikes.cfm"
+                },{
+                    "label": "Opus",
+                    "href": "http://www.opusbike.com/en/home.html"
+                },{
+                    "label": "Electra",
+                    "href": "http://www.electrabike.com/"
+                },{
+                    "label": "Ibis",
+                    "href": "http://www.ibiscycles.com/"
+                },{
+                    "label": "Surly",
+                    "href": "http://surlybikes.com/"
+                },{
+                    "label": "Fit Co.",
+                    "href": "http://fitbikeco.com/"
+                },{
+                    "label": "Encore",
+                    "href": "http://encorebikes.com/"
+                },{
+                    "label": "WTP",
+                    "href": "http://wethepeoplebmx.de/bikes/"
+                },{
+                    "label": "Kink",
+                    "href": "https://www.kinkbmx.com/"
+                },{
+                    "label": "EarlyRider",
+                    "href": "http://earlyrider.com/"
+                }
+            ]
+        },
+        "contact": {
+            "email": "hello@derailedsports.com",
+            "address": "804 Park Dr. Golden, BC",
+            "tel": "250.439.9959",
+            "Hours": [
+                ["Sunday", "9-5"],
+                ["Monday", "9-5"],
+                ["Tuesday", "9-5"],
+                ["Wednesday", "9-5"],
+                ["Thursday", "9-5"],
+                ["Friday", "9-5"],
+                ["Saturday", "9-5"]
+            ]
+        }
+    }
+}
