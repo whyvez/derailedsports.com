@@ -5,7 +5,7 @@
         },
         "shop": {
             "p": [
-                "Situated in beautiful Golden British-Columbia at the foot of the Kicking-Horse River. Our shop is in a very old heritage building built in 1876. The Golden mountain bike scene has grown exponentially in the past few years with many new trials in the making. The Golden Bike Club constitutes 244 members strong. There are 250 kms of magnificient and scenic trails in the Golden area to enjoy. Need some a bike or gear to enjoy it; come visit us."
+                "Situated in beautiful Golden British-Columbia at the foot of the Kicking-Horse River. Our shop is located in one of Golden's very few heritage buildings. The Golden mountain bike scene has grown exponentially in the past few years with over 100 km of single-track. The Golden Cycling Club is 400 members strong. Come in and see us for directions, trails conditions and a trail maps. "
             ]
         },
         "services": {
@@ -28,7 +28,7 @@
             ]
         },
         "gear": {
-            "p": ["Head Gear, Second Gear, Richard Gere; we've got your gear. If we don't have it in stock we'll get our homing pigeon upex to fetch it for us."],
+            "p": [ "In store we have a great selection of quality gear. If you are looking for something specific let us know and we'll get it for you."],
             "ul": [
                 {
                     "label": "Dakine",
@@ -88,7 +88,7 @@
             ]
         },
         "bikes": {
-            "p": ["We can order stock bikes or build you a custom shredding machine. Drop by to see our in store selection or to talk about what you are looking for."],
+            "p": ["We carry a wide selection of bikes for all rider types and ages. Whether your are new to riding or a total addict, we can help you find the right bike. We also specialize in bike customization and fitting."],
             "ul": [
                 {
                     "label": "Specialized",
@@ -134,17 +134,17 @@
             ]
         },
         "contact": {
-            "email": "hello@derailedsports.com",
+            "email": "info@derailedsports.com",
             "address": "804 Park Dr. Golden, BC",
             "tel": "250.439.9959",
             "Hours": [
-                ["Sunday", "9-5"],
-                ["Monday", "9-5"],
-                ["Tuesday", "9-5"],
-                ["Wednesday", "9-5"],
-                ["Thursday", "9-5"],
-                ["Friday", "9-5"],
-                ["Saturday", "9-5"]
+                ["Sunday", "11-4"],
+                ["Monday", "10-6"],
+                ["Tuesday", "10-6"],
+                ["Wednesday", "10-6"],
+                ["Thursday", "10-6"],
+                ["Friday", "10-7"],
+                ["Saturday", "10-6"]
             ]
         }
     }
